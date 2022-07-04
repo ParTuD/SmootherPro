@@ -20,8 +20,9 @@ camera minizoom
 remove skills sounds
 remove monsters sounds
 Usage:
+![SmootherPro](https://user-images.githubusercontent.com/108666368/177135825-6ea1503d-8e19-4d97-95c5-4b05b99412c5.PNG)
 
-simple as it is, just check what you want to disable and it's done. The is an info_path.txt file with paths of what 
+Simple as it is, just check what you want to disable and it's done. The is an info_path.txt file with paths of what 
 is changed for easy track of any errors. Any helpers/contributors good at programming are very welcomed. My limited skills on c#, makes the tool to look like a mess, 
 but it's working as intended :)
 
@@ -30,3 +31,4 @@ i don't think GGG have that low self respect to ban any of VisualGGPK users, and
 (but who knows..nothing is 100% sure).
 
 enjoy
+
